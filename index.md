@@ -1,99 +1,97 @@
 ## WORKSHOP SUMMARY
 
-**Date and Location:** The workshop will be held *online* on October 25 or 26.
+**Date and Location:** The workshop will be held TBD.
 
-While visualization research is still largely focused on data analysis, most people experience visualization as communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
+Competitive esports is a growing worldwide phenomenon now rivaling traditional sports, with over 450 million views and 1 billion US dollars in revenue each year. For comparison, Major League Baseball has 500 million views and $10 billion in revenue, FIFA Soccer 900 million and $1.6 billion. Despite this significant popularity, much of the world remains unaware of esports — and in particular, research on and for esports is still extremely scarce compared to esports’ impact and potential.
 
-The VisComm workshop brings together practitioners and researchers from a broad range of disciplines to address questions raised by visualization’s new communicative role. We encourage participation from journalists, designers, health communicators and others that do not typically attend [IEEE VIS](http://ieeevis.org/).
-
-## COVID-19 IMPACTS
-
-We hope that everyone is coping well with these unprecedented times! Because of the pandemic, IEEE Vis and VisComm will take place online. We will announce futher program and technology details here, but you can also monitor the [status of IEEE VIS](http://ieeevis.org/year/2020/info/coronavirus-info).
-
+The Esports and High Performance HCI (EHPHCI) workshop will begin addressing that research gap. In esports, athletes compete through the computer interface. Because this interface can make the difference between winning and losing, esports athletes are among the most expert computer interface users in the world, as other athletes are experts in using balls and shoes in traditional sports. The premise of this workshop is that people will apply esports technology broadly, improving performance in a wide range of human activity. The workshop will gather experts in engineering, human factors, psychology, design and the social and health sciences to discuss this deeply multidisciplinary enterprise.
 
 ## WORKSHOP TOPICS
 
-VisComm seeks contributions addressing questions including: 
+EHPHCI seeks contributions addressing challenges and applications of esports technology including: 
 
-- How should visualization adapt to its new, more diverse audience? Visualization for communication addresses an audience that is much more varied in demographics and literacy than visualization for analysis.
-- When do visualizations communicate successfully, and how can we measure that success? Methods might include web analytics, behavioral studies, eye tracking, or even galvanic skin response.
-- How can practitioners build visualizations that communicate successfully? Are there models that can guide effective communicative visualization, possibly derived from theories of aesthetics, memory, metaphor, or persuasion?
-- Are there certain visualization techniques (like “chart junk”) that are particularly helpful for communication? How well do they work in concert?  
-- What tools do practitioners need to help them build visualizations for communication? What are typical practitioner workflows, and which parts of them are most challenging? 
-- Which application areas are still emerging for communicative visualization, and how should visualization respond to them? How would the success of new tools be measured?
-- What new lessons about visualization for communication are being revealed by the Covid-19 pandemic? For example, should physical distancing and economic disruption change communicative visualizations?
+- _Low Latency Systems:_ As in most sports, quick response times are a fundamental advantage in esports. Maximizing this advantage requires low-latency interactive software and hardware, with tightly integrated input, rendering and display components.
 
-We particularly encourage contributors to address and illustrate issues like these with visual case studies that demonstrate the success or failure of communicative visualization projects in data journalism, public health and more. Our goal is to consider a broad range of examples and learn from their design decisions and process.
+- _Expertise and Training:_ Effective training and team building/composition methodologies are still emerging in esports. Innovations in esports science help athletes train more effectively, with contributions from sports science, medicine and psychology. Technical opportunities include deeply instrumented assessments, analytics and biometrics, AI training partners, and specialized training interfaces.
 
-We invite contributions from any discipline, but particularly encourage journalists and designers to submit their work involving data-based communication or reporting. Scientific contributions concerning visualization for communication are of course welcome, as well.
+- _Communication and Collaboration:_ Remote team communication and collaboration are core to esports. As the pandemic continues and it changes the ways in which we work and educate, esports' tested technologies, techniques and experience will prove invaluable.  
+
+- _Social Impacts:_ Esports technology supports athletes, organizers and fans. Esports faces challenges with its athletes, whose careers are often shortened by stress, injury, and rapid change in esports games. The public is also concerned about the effects of prolonged use of esports games and technology.
+
+- _Productivity:_ Like esports athletes, knowledge workers spend thousands of hours using their tools. Unlike esports athletes, most knowledge workers expertise quickly reaches a plateau. Emerging esports technologies and lessons supporting experts might enable knowledge workers to improve their productivity further. Such technologies might include task-salient visuals and overlays, low latency feedback, and tools for remote collaboration and teamwork.
+
+- _Remote Operation:_ The current pandemic is accelerating the development of remote technologies such as drones and telemedicine. Expertise in gaming is a good predictor of success in remote operation, making esports technology a natural fit for remote applications. 
+
+- _Rehabilitation and Adaptive Interfaces:_ An adaptive esports community made up of players with physical and cognitive differences is rapidly emerging, driving rapid enhancements in the availability of adaptive esports equipment. This not only levels the playing field for adaptive athletes, but also opens novel frontiers for telerehabilitation and telemedicine.
+
+- _Research on Human Performance:_ Because its field of play is completely synthesized, professional esports test the limits of human performance constantly, creating new questions about, understanding of, and quantitative measurement equipment for performance and perceptual science. 
+
+We invite contributions from the esports industry, as well as a range of research disciplines, including computer science, electrical engineering, psychology, medicine and sports science.
 
 ## SUBMISSIONS
 
-VisComm has four submission tracks: short papers (research or position), posters, and visual case studies.
+EHPHCI has two submission tracks: short papers (research, position or case study) and posters.
 
 ### Short Research Papers
 
-We invite submission of research papers between 2 and 6 pages long, with length matching content. Research papers will be reviewed based on how well claims are supported by evidence. Submissions are expected to include all materials and data needed to replicate and reproduce any figures, analyses, and methods. If anything cannot be publicly shared (e.g., for data privacy concerns), state the reason in the paper.
+We invite submission of research papers between 2 and 4 pages long, with length matching content. Research papers will be reviewed based on how well claims are supported by evidence. Submissions are expected to include all materials and data needed to replicate and reproduce any figures, analyses, and methods. If anything cannot be publicly shared (e.g., for data privacy concerns), state the reason in the paper.
 
 ### Short Position Papers
 
-We invite submission of position papers between 2 and 6 pages long, with length matching content. Position papers are problem discussions or statements describing the author's relevant experience and ideas with regards to methods and methodologies for visualization research, and in particular the focus topic of the workshop. Position papers will be selected according to their importance and relevance for the workshop topics and how well they will fit the planned discussions.
+We invite submission of position papers between 2 and 4 pages long, with length matching content. Position papers are problem discussions or statements describing the author's relevant experience and ideas with regards to esports and high performance HCI research, and in particular the focus topic of the workshop. Position papers will be selected according to their importance and relevance for the workshop topics and how well they will fit the planned discussions.
+
+### Short Case Study Papers
+
+We invite submission of position papers between 2 and 4 pages long, with length matching content. Case study papers describe applications of esports and high performance HCI technology. Case study papers will be selected by their match to workshop themes, and their likelihood to generate discussion.
 
 ### Posters
 
-We invite both late-breaking work and contributions in this area in the form of extended abstracts 1 to 2 pages in length (plus an additional page for references), with an optional video.
-
-### Visual Case Studies
-
-We invite practitioners to submit a one-page write-up together with a link to an online piece or a short video. The write-up should explain what you made, why you made it, outcome/responses (both expected and unexpected), etc.
-
-The goal is to show the work of journalists, designers, people working for governments or non-profits, etc., who use data to inform and communicate.
+We invite both late-breaking work and contributions in this area in the form of extended abstracts 1 to 2 pages in length (plus an additional page for references).
 
 ### Formatting and Submitting
 
-Your paper, abstract or write-up should take the form of a PDF file, formatted in the [VGTC conference style](http://junctionpublishing.org/vgtc/Tasks/camera.html), which has both Latex and MS Word templates. However, please replace the statement about IEEE copyright and reprints with the following text: _This work is licensed under a Creative Commons Attribution 4.0 International License._
+Your paper, abstract or write-up should take the form of a PDF file, formatted in the [ACM conference style]().
 
-All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the [IEEE VIS](http://ieeevis.org/) website.
+All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the ACM CHI website.
 
-[SUBMIT ONLINE USING PCS](https://new.precisionconference.com/vgtc). Choose the VGTC society, the VIS 2020 conference, and the VisComm track.
+SUBMIT VIA EMAIL TO THIS ADDRESS: <ehphci@googlegroups.com>. 
 
 ### Accepted Submissions
 
-All accepted submissions will be published using links from the workshop website.
+All accepted submissions will be published using links from the workshop website. 
 
-We expect authors of accepted submissions to post their documents on the Open Science Framework's [preprint archive](http://osf.io/preprints), using the instructions we send. Authors are welcome to post an initial version of their submission earlier. Our OSF workshop papers are not considered archival by IEEE, and may be published elsewhere at a later date. However, we understand that authors from non-engineering disciplines may have different prior publication standards; please contact the chairs if you must publish your accepted submission differently. 
+<!-- Presenting authors can make use of a reduced registration fee at [IEEE VIS](http://ieeevis.org/). -->
 
-Presenting authors can make use of a reduced registration fee at [IEEE VIS](http://ieeevis.org/).
+## Important Dates
 
-## Important Dates (EXTENDED)
+_Deadlines are at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
 
-_deadlines are at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
+Submission deadline: TBD
 
-Submission deadline: ~~June 15~~ ~~July 16~~ July 23, 2020
+Notification: TBD
 
-Notification: ~~July 15~~ August 17, 2020
+Camera-ready deadline: TBD
 
-Camera-ready deadline: ~~August 15~~ August 27, 2020
+Speaker schedule available: TBD
 
-Speaker schedule available: October 1, 2020
-
-Workshop: **October 25 or 26, 2020**
+Workshop: TBD
 
 ## ORGANIZERS
 
-The quickest way to contact VisComm's organizers is via their shared email, <viscomm_chairs@googlegroups.com>.
+The quickest way to contact EHPHCI's organizers is via their shared email, <ehphci@googlegroups.com>.
 
-[Alvitta Ottley](https://engineering.wustl.edu/Profiles/Pages/Alvitta-Ottley.aspx), Washington University in St. Louis (<alvitta@wustl.edu>)
+[Benjamin Watson](https:/watson.csc.ncsu.edu), North Carolina State University (<bwatson@ncsu.edu>)
 
-[Adriana Arcia](https://www.nursing.columbia.edu/profile/adriana-arcia-phd), Columbia University (<aa2594@cumc.columbia.edu>)
+[Josef Spjut](http://josef.spjut.me/), NVIDIA Research (<jspjut@nvidia.com>)
 
-[Ben Watson](https://watson.csc.ncsu.edu), North Carolina State University (<bwatson@ncsu.edu>)
+[Joohwan Kim](https://research.nvidia.com/person/joohwan-kim), NVIDIA Research (<sckim@nvidia.com>)
 
-[Robert Kosara](https://eagereyes.org/), Tableau Research (<rkosara@tableau.com>)
+[Jennifer Listman](https://www.linkedin.com/in/jenniferlistman/), Statespace Labs (<jenny@statespacelabs.com>)
 
-## ARCHIVE
+[Sunjun Kim](https://kuaa.net/), DGIST (<sunjun_kim@dgist.ac.kr>)
 
-[2019 schedule, papers and posters](2019/index.html)
+[Raphael Wimmer](https://hci.ur.de/people/raphael_wimmer), University of Regensburg (<raphael.wimmer@ur.de>)
 
-[2018 schedule, papers and posters](2018/schedule.html)
+[David Putrino](https://www.putrinolab.net/about), Mt Sinai Health System (<david.putrino@mountsinai.org>)
 
+[Byungjoo Lee](http://leebyungjoo.com/), KAIST (<byungjoo.lee@kaist.ac.kr>)
