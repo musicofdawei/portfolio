@@ -1,6 +1,6 @@
 ## WORKSHOP SUMMARY
 
-**Date and Location:** The workshop will be held TBD.
+**Date and Location:** The EHPHCI workshop will be held online on Saturday May 8. The workshop's times and details on how it can be accessed will appear soon. 
 
 Competitive esports is a growing worldwide phenomenon now rivaling traditional sports, with over 450 million views and 1 billion US dollars in revenue each year. For comparison, Major League Baseball has 500 million views and $10 billion in revenue, FIFA Soccer 900 million and $1.6 billion. Despite this significant popularity, much of the world remains unaware of esports — and in particular, research on and for esports is still extremely scarce compared to esports’ impact and potential.
 
@@ -54,7 +54,7 @@ Your paper, abstract or write-up should take the form of a PDF file, formatted i
 
 All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the ACM CHI website.
 
-SUBMIT VIA EMAIL TO THIS ADDRESS: <ehphci@googlegroups.com>. 
+SUBMIT VIA EMAIL TO THIS ADDRESS: <ehphci-submissions@googlegroups.com>. 
 
 ### Accepted Submissions
 
@@ -66,15 +66,15 @@ All accepted submissions will be published using links from the workshop website
 
 _Deadlines are at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
 
-Submission deadline: TBD
+Submission deadline: January 31
 
-Notification: TBD
+Notification: February 21
 
-Camera-ready deadline: TBD
+Camera-ready deadline: April 1
 
-Speaker schedule available: TBD
+Speaker schedule available: April 1
 
-Workshop: TBD
+Workshop: May 8
 
 ## ORGANIZERS
 
