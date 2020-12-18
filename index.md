@@ -50,7 +50,7 @@ We invite both late-breaking work and contributions in this area in the form of 
 
 ### Formatting and Submitting
 
-Your paper, abstract or write-up should take the form of a PDF file, formatted in the [ACM conference style]().
+Your paper, abstract or write-up should take the form of a PDF file, formatted in the [ACM conference style](https://www.acm.org/publications/proceedings-template) (Use `\documentclass[sigconf]{acmart}` document type in LaTeX). You can read more about formatting recommendations on the [CHI submissions page](https://chi2021.acm.org/for-authors/chi-publication-formats).
 
 All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the ACM CHI website.
 
