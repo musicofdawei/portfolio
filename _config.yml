@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: "EHPHCI: Esports and High Performance HCI"
 description: An ACM CHI Workshop
-avatar: "assets/icon.square.png"
+avatar: "/assets/icon.square.png"
