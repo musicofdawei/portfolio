@@ -1,3 +1,5 @@
+<title></title>
+
 ## WORKSHOP SUMMARY
 
 **Date and Location:** The EHPHCI workshop will be held online on Saturday May 8. The workshop's times and details on how it can be accessed will appear soon. 
