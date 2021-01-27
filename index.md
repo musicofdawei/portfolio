@@ -1,12 +1,15 @@
-<title></title>
+<title></title> <!-- no page title from markdown -->
 
 ## WORKSHOP SUMMARY
-
-**Date and Location:** The EHPHCI workshop will be held online on Saturday May 8. The workshop's times and details on how it can be accessed will appear soon. 
 
 Competitive esports is a growing worldwide phenomenon now rivaling traditional sports, with over 450 million views and 1 billion US dollars in revenue each year. For comparison, Major League Baseball has 500 million views and $10 billion in revenue, FIFA Soccer 900 million and $1.6 billion. Despite this significant popularity, much of the world remains unaware of esports — and in particular, research on and for esports is still extremely scarce compared to esports’ impact and potential.
 
 The Esports and High Performance HCI (EHPHCI) workshop will begin addressing that research gap. In esports, athletes compete through the computer interface. Because this interface can make the difference between winning and losing, esports athletes are among the most expert computer interface users in the world, as other athletes are experts in using balls and shoes in traditional sports. The premise of this workshop is that people will apply esports technology broadly, improving performance in a wide range of human activity. The workshop will gather experts in engineering, human factors, psychology, design and the social and health sciences to discuss this deeply multidisciplinary enterprise.
+
+## WORKSHOP DATE AND ONLINE ACCESS
+
+The EHPHCI workshop will be held online on Saturday May 8, as part of the [ACM CHI Conference](https://chi2021.acm.org/). The workshop's times and access details will appear soon. The cost for authors and attendees is $30, plus the cost of at least a one day [registration for ACM CHI](https://chi2021.acm.org/information/4702.html) ($100 for early members).
+
 
 ## WORKSHOP TOPICS
 
@@ -62,9 +65,7 @@ SUBMIT VIA EMAIL TO THIS ADDRESS: <ehphci-submissions@googlegroups.com>.
 
 All accepted submissions will be published using links from the workshop website. 
 
-<!-- Presenting authors can make use of a reduced registration fee at [IEEE VIS](http://ieeevis.org/). -->
-
-## Important Dates
+## IMPORTANT DATES
 
 _Deadlines are at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
 
@@ -80,7 +81,7 @@ Workshop: May 8
 
 ## ORGANIZERS
 
-The quickest way to contact EHPHCI's organizers is via their shared email, <ehphci@googlegroups.com>.
+The quickest way to contact EHPHCI's organizers is via their shared email, <ehphci@googlegroups.com>. To stay connected to the workshop and its community, [join its google group](<http://ehphci-list+subscribe@googlegroups.com/>).
 
 [Benjamin Watson](https:/watson.csc.ncsu.edu), North Carolina State University (<bwatson@ncsu.edu>)
 
