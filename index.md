@@ -81,7 +81,7 @@ Workshop: May 8
 
 ## ORGANIZERS
 
-The quickest way to contact EHPHCI's organizers is via their shared email, <ehphci@googlegroups.com>. To stay connected to the workshop and its community, [join its google group](<http://ehphci-list+subscribe@googlegroups.com/>).
+The quickest way to contact EHPHCI's organizers is via their shared email, <ehphci@googlegroups.com>. To stay connected to the workshop and its community, [join its google group](<ehphci-list+subscribe@googlegroups.com>).
 
 [Benjamin Watson](https:/watson.csc.ncsu.edu), North Carolina State University (<bwatson@ncsu.edu>)
 
