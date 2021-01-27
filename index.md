@@ -66,13 +66,13 @@ All accepted submissions will be published using links from the workshop website
 
 _Deadlines are at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
 
-Submission deadline: January 31
+Submission deadline: ~~January 31~~ February 24
 
-Notification: February 21
+Notification: ~~February 21~~ March 17
 
-Camera-ready deadline: April 1
+Camera-ready deadline: ~~April 1~~ April 7
 
-Speaker schedule available: April 1
+Speaker schedule available: ~~April 1~~ April 7
 
 Workshop: May 8
 
