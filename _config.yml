@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
-title: "EHPHCI: Esports and High Performance HCI"
-description: An ACM CHI Workshop
+title: "Ethics and Transparency in Game Data"
+description: An ACM CHI Play Connections Workshop
+baseurl: ""
